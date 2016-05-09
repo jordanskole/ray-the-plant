@@ -4,15 +4,21 @@ Ray the talking plant lets you know when it is thirsty, if the temperature is ou
 
 ## Parts List
 
-- Particle Photon
-- Photon Weather Shield
-- Soil Moisture Sensor
+- Particle Photon (particle, sparkfun, adafruit)
+- Photon Weather Shield (sparkfun)
+- Soil Moisture Sensor (sparkfun)
 
 ## Pre-requisites
 
 - Particle Account
-- Particle CLI
+- Particle CLI Software
 - Twilio Account
+
+#### Particle Account
+
+#### Particle CLI Software
+
+#### Twilio Account
 
 ## Tutorial
 
@@ -23,10 +29,10 @@ Ray the talking plant lets you know when it is thirsty, if the temperature is ou
   1. Control a solenoid
   2. Build a web interface
 
-### Connect the Particle Photon
+#### Connect the Particle Photon
 
-### Create the webhook
+#### Create the webhook
 
-### Write the sketch
+#### Write the sketch
 
-### Bonus steps
+#### Bonus steps
