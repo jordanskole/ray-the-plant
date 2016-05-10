@@ -75,6 +75,9 @@ void loop()
 
   // and now power it down again to preserve the longevity of the sensor
   digitalWrite(soilPower, LOW);
+
+  // listen for the particle readout to a usb connected Photon
+  // by typing 'particle serial monitor' in a terminal window
   Serial.printlnf("Soil moisture is %i", moistureReading);
 
 
