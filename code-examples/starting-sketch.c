@@ -1,7 +1,3 @@
-char Org[] = "The Iron Yard";
-char Disp[] = "Ray the Plant";
-char Locn[] = "Detroit, MI";
-
 // Stuff for the soil moisture sensor
 int soilPower = D5;
 int soilMoisture = A1;
