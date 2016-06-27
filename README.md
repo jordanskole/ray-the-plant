@@ -11,10 +11,6 @@ If you have any questions or a piece of this tutorial is unclear, I would encour
 - Particle Photon ([particle](https://store.particle.io/collections/photon), [Sparkfun](https://www.sparkfun.com/products/13774), [Adafruit](https://www.adafruit.com/product/2721))
 - Soil Moisture Sensor ([sparkfun](https://www.sparkfun.com/products/13322))
 - Mini breadboard ([sparkfun](https://www.sparkfun.com/products/12044))
-- Optional: 3 prong, jst connector
-
-
-- Photon Weather Shield ([sparkfun](https://www.sparkfun.com/products/13630))
 
 ## Pre-requisites
 
@@ -91,7 +87,7 @@ Less Common Commands:
 For more information Run: particle help <command_name>
 ```
 
-Cowabunga! We are 2/3rds of the way through our Pre-requisites! 
+Cowabunga! We are 2/3rds of the way through our Pre-requisites!
 
 #### Zapier Account
 
