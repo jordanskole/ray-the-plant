@@ -49,6 +49,50 @@ Inside your terminal type the following command and hit enter
 npm install particle-cli -g
 ```
 
+If it worked you should see some jibberish that looks like this. Its okay if you don't know what this means, nobody does! You just don't want to see any red.
+
+```shell
+├── request@2.72.0 (tunnel-agent@0.4.3, aws-sign2@0.6.0, oauth-sign@0.8.2, forever-agent@0.6.1, caseless@0.11.0, is-typedarray@1.0.0, stringstream@0.0.5, aws4@1.4.1, isstream@0.1.2, json-stringify-safe@5.0.1, extend@3.0.0, tough-cookie@2.2.2, node-uuid@1.4.7, qs@6.1.0, combined-stream@1.0.5, mime-types@2.1.11, hawk@3.1.3, bl@1.1.2, http-signature@1.1.1, har-validator@2.0.6)
+├── moment@2.13.0
+├── lodash@3.10.1
+├── softap-setup@1.1.4 (nconf@0.7.2, node-rsa@0.2.30)
+└── serialport@3.1.2 (bindings@1.2.1, commander@2.9.0, es6-promise@3.2.1, nan@2.3.5, debug@2.2.0, object.assign@4.0.3)
+```
+
+Go ahead and type `clear` to clear out all the jibberish.
+
+```shell
+clear
+```
+
+Awesome! Let's double check that everything is installed okay. To do that we will "open" the particle app from within the terminal. Simply type `particle`.
+
+```shell
+particle
+```
+
+You should see something that looks something like this
+
+```shell
+Welcome to the Particle Command line utility!
+Version 1.14.2
+https://github.com/spark/particle-cli
+
+Usage: particle <command_name> <arguments>
+Common Commands:
+
+    setup, list, call, get, device, identify, flash, subscribe
+    compile, monitor, login, logout, help
+
+Less Common Commands:
+    token, binary, cloud, config, function, keys, serial, udp
+    update, variable, webhook, wireless
+
+For more information Run: particle help <command_name>
+```
+
+Cowabunga! We are 2/3rds of the way through our Pre-requisites! 
+
 #### Zapier Account
 
 ## Tutorial
