@@ -14,6 +14,7 @@ If you have any questions or a piece of this tutorial is unclear, I would encour
 
 ## Pre-requisites
 
+- [node.js](https://nodejs.org)
 - [Particle Account](https://build.particle.io/signup)
 - [Particle CLI Software](https://www.npmjs.com/package/particle-cli)
 - [Zapier Account](https://zapier.com/app/explore)
@@ -89,6 +90,12 @@ For more information Run: particle help <command_name>
 Cowabunga! We are 2/3rds of the way through our Pre-requisites!
 
 #### Zapier Account
+
+Zapier is a web application that connects all of the other applications on the internet together. After you create an account, you can make recipes, or "Zaps" that connect two or more web applications together. If something happens in one application, you can trigger an action in another application.
+
+In our case, we will use Zapier to connect the Particle Cloud with an SMS message. If our Photon _publishes_ an event to the Particle Cloud, then we will send an SMS message.
+
+You can create a Zapier account on the [Zapier website](https://zapier.com).
 
 ## Tutorial
 
