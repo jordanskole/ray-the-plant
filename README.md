@@ -9,9 +9,12 @@ If you have any questions or a piece of this tutorial is unclear, I would encour
 ## Parts List
 
 - Particle Photon ([particle](https://store.particle.io/collections/photon), [Sparkfun](https://www.sparkfun.com/products/13774), [Adafruit](https://www.adafruit.com/product/2721))
-- Photon Weather Shield ([sparkfun](https://www.sparkfun.com/products/13630))
 - Soil Moisture Sensor ([sparkfun](https://www.sparkfun.com/products/13322))
+- Mini breadboard ([sparkfun](https://www.sparkfun.com/products/12044))
 - Optional: 3 prong, jst connector
+
+
+- Photon Weather Shield ([sparkfun](https://www.sparkfun.com/products/13630))
 
 ## Pre-requisites
 
@@ -19,11 +22,22 @@ If you have any questions or a piece of this tutorial is unclear, I would encour
 - [Particle CLI Software](https://www.npmjs.com/package/particle-cli)
 - [Zapier Account](https://zapier.com/app/explore)
 
+
 #### Particle Account
+
+In order to upload sketches to your Particle Photon, that neat little chip that will be powering our plant, we first need to create a Particle account. Your Photon is composed of two pieces, the device itself, and Particle Cloud, the online IDE that you use to manage all of your devices in the field.
+
+Particle Cloud gives you access to several methods inside your sketch that allow your Photon device to communicate with the outside world.
+
+Creating an account is easy. Just visit `build.particle.io` and click on the link to [create a new account](https://build.particle.io/signup). Go ahead and do that and come back here.
 
 #### Particle CLI Software
 
-#### Twilio Account
+> I am going to assume that you are on a MacOS computer for now. I will update this tutorial with Windows instructions soon, or you can visit `https://www.particle.io/cli` to download the installer for Windows.
+
+We will need a way for our laptop to communicate with our Photon. The easiest way to do so is by using the _Particle Cli_ application. Particle Cli is a command line application. That means that we need to run it in our terminal, but don't worry! It is not as scary as it seems, and if you get at all stuck, you can [ask a question in the issues](https://github.com/jordanskole/ray-the-plant/issues) and I will help you work through it. 
+
+#### Zapier Account
 
 ## Tutorial
 
