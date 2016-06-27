@@ -37,9 +37,17 @@ Creating an account is easy. Just visit `build.particle.io` and click on the lin
 
 We will need a way for our laptop to communicate with our Photon. The easiest way to do so is by using the _Particle Cli_ application.
 
-Particle Cli is a command line application. That means that we need to run it in our terminal, but don't worry! It is not as scary as it seems, and if you get at all stuck, you can [ask a question in the issues](https://github.com/jordanskole/ray-the-plant/issues) and I will help you work through it. 
+Particle Cli is a command line application. That means that we need to run it in our terminal, but don't worry! It is not as scary as it seems, and if you get at all stuck, you can [ask a question in the issues](https://github.com/jordanskole/ray-the-plant/issues) and I will help you work through it.
 
-In order to install the Particle Cli software, you will need a program called node.js.
+In order to install the Particle Cli software, you will need a program called node.js. Head on over to the [nodejs website](https://nodejs.org). Follow the directions over there, you should need to download the installer and run it on your local machine.
+
+Once you have node installed open a terminal window. You can use the magnifying glass in the top right of your machine to search for the terminal app if you are unsure where it is.
+
+Inside your terminal type the following command and hit enter
+
+```shell
+npm install particle-cli -g
+```
 
 #### Zapier Account
 
