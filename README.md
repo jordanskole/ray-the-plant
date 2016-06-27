@@ -2,6 +2,8 @@
 
 Ray the talking plant lets you know when it is thirsty, if the temperature is outside its range, and additional other.
 
+In this tutorial, I will show you how to use a Particle Photon to test the moisture level of some soil. If the moisture falls outside a certain range (too wet or too dry) we will send a text message to a cell phone. 
+
 ## Parts List
 
 - Particle Photon ([particle](https://store.particle.io/collections/photon), [Sparkfun](https://www.sparkfun.com/products/13774), [Adafruit](https://www.adafruit.com/product/2721))
@@ -24,6 +26,7 @@ Ray the talking plant lets you know when it is thirsty, if the temperature is ou
 ## Tutorial
 
 1. Connect the Particle Photon
+  1. Wire the Photon to the
 2. Print values to serial
 3. Create the webhook
 4. Write the sketch
