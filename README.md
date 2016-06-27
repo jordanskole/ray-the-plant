@@ -21,11 +21,10 @@ If you have any questions or a piece of this tutorial is unclear, I would encour
 
 #### Particle Account
 
-In order to upload sketches to your Particle Photon, that neat little chip that will be powering our plant, we first need to create a Particle account. Your Photon is composed of two pieces, the device itself, and Particle Cloud, the online IDE that you use to manage all of your devices in the field.
+In order to upload sketches (explain sketches) to your Particle Photon, that neat little chip that will be powering our plant, we first need to create a Particle account. Creating an account is easy. Just visit `build.particle.io` and click on the link to [create a new account](https://build.particle.io/signup). Go ahead and do that and come back here.
 
-Particle Cloud gives you access to several methods inside your sketch that allow your Photon device to communicate with the outside world.
+Your Photon is composed of two pieces: the device itself and Particle Cloud, the online IDE (what is IDE?) that you use to manage all of your devices in the field. Particle Cloud gives you access to several methods inside your sketch that allow your Photon device to communicate with the outside world.
 
-Creating an account is easy. Just visit `build.particle.io` and click on the link to [create a new account](https://build.particle.io/signup). Go ahead and do that and come back here.
 
 #### Particle CLI Software
 
