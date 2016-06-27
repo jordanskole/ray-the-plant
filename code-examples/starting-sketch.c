@@ -31,9 +31,12 @@ void loop()
   digitalWrite(soilPowerPin, LOW);
 
 
-  // Do some webhook stuff
+  // Do some webhook stuff (this is the magic)
   char payload[255];
   snprintf(payload, sizeof(payload), "{ \"plant_name\":\"Maggy\", \"moisture\":\"%i\" }", moistureReading);
+
+  // THIS IS THE MAGIC
+  //
   Particle.publish("plant-status", payload);
 
   // wait for 30s to do it all again
