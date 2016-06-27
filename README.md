@@ -24,6 +24,8 @@ $ npm install particle-cli -g
 
 - [Zapier Account](https://zapier.com/app/explore)
 
+For more in depth coverage of the Pre-requisites, head on over to to the [PREREQS.md page](#). 
+
 ## Tutorial
 
 1. Connect the Particle Photon
