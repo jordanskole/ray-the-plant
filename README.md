@@ -69,7 +69,7 @@ _ __   __ _ _ __| |_(_) ___| | ___  (_) ___
 | .__/ \__,_|_|   \__|_|\___|_|\___(_)_|\___/
 |_|                     https://particle.io/
 
-> Setup is easy! Let's get started...
+> Setup is easy! Let\'s get started...
 ? Hello Stranger! This seems to be your first time here. What would you like to
 do? (Use arrow keys)
 ❯ Create a new account
