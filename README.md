@@ -191,7 +191,9 @@ Give your Photon a name. I will call mine `ray-the-plant` after this tutorial.
 
 **Nice work!!** but we are not completely done yet. Let's login to our photon account and make sure that we see our new Photon device.
 
-Head on over to [https://dashboard.particle.io/user/devices](https://dashboard.particle.io/user/devices) and log into your Particle account. You should see a new device in the list, with the name we gave it. 
+Head on over to [https://dashboard.particle.io/user/devices](https://dashboard.particle.io/user/devices) and log into your Particle account. You should see a new device in the list, with the name we gave it.
+
+![https://dashboard.particle.io/user/devices](https://raw.githubusercontent.com/jordanskole/ray-the-plant/master/images/particle_dash_device_list.png)
 
 ##### Wire the Photon to the Soil Moisture Sensor
 
